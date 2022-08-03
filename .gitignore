@@ -4,6 +4,10 @@ coverage
 coverage.json
 typechain
 deployments
+.solhintignore
+.solhint.json
+gas-report.txt
+
 
 #Hardhat files
 cache
