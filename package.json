@@ -1,6 +1,6 @@
 {
     "name": "hardhat-fund-me",
-    "author": "Lee Jing Jenn",
+    "author": "Jay_Lee",
     "version": "1.0.0",
     "devDependencies": {
         "@chainlink/contracts": "^0.4.2",
